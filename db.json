@@ -3,7 +3,8 @@
     { "id": 1, "title": "angulare" },
     { "id": 2, "title": "react" },
     { "id": 3, "title": "nodejs" },
-    { "id": 3, "title": "javascr" }
+    { "id": 3, "title": "javascr" },
+    { "id": 3, "title": "antenna" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
