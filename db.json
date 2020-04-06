@@ -1,8 +1,9 @@
 {
   "courses": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 1, "title": "angulare" },
+    { "id": 2, "title": "react" },
+    { "id": 3, "title": "node js" },
+    {"id":4 ,"title: "mongodb"} ,
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
