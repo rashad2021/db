@@ -2,7 +2,8 @@
   "courses": [
     { "id": 1, "title": "angulare" },
     { "id": 2, "title": "react" },
-    { "id": 3, "title": "mongodb" }
+    { "id": 3, "title": "nodejs" },
+    { "id": 3, "title": "javascr" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
